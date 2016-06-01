@@ -1,0 +1,41 @@
+body {
+	background-image: url("http://www.psdgraphics.com/file/sticky-notes.jpg");
+	background-size: cover;
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+#main {
+
+}
+
+#formDiv {
+
+}
+
+#form {
+
+}
+
+#textBox {
+
+}
+
+#submitButton {
+
+}
+
+#listDiv {
+
+}
+
+#uList {
+
+}
+
+button {
+	margin-right: 10px;
+}
